@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-photography-site/static/css/main.dfbaea78.css",
+    "main.js": "/my-photography-site/static/js/main.58cf735e.js",
+    "static/js/488.7d9932b7.chunk.js": "/my-photography-site/static/js/488.7d9932b7.chunk.js",
+    "static/media/studio2.png": "/my-photography-site/static/media/studio2.c7fa61ccddb1703a77ef.png",
+    "static/media/studio1.png": "/my-photography-site/static/media/studio1.619ae658cee7860df571.png",
+    "static/media/studio3.png": "/my-photography-site/static/media/studio3.ad78e8ca87b381ba3179.png",
+    "static/media/service-bck.png": "/my-photography-site/static/media/service-bck.d0991d0ea045a399828d.png",
+    "static/media/booking-bck.png": "/my-photography-site/static/media/booking-bck.a44f68233a1fa9229754.png",
+    "static/media/background.png": "/my-photography-site/static/media/background.847b196cf8d9b8eaf581.png",
+    "static/media/logo.png": "/my-photography-site/static/media/logo.bc0b432628b5c5f475f3.png",
+    "index.html": "/my-photography-site/index.html",
+    "main.dfbaea78.css.map": "/my-photography-site/static/css/main.dfbaea78.css.map",
+    "main.58cf735e.js.map": "/my-photography-site/static/js/main.58cf735e.js.map",
+    "488.7d9932b7.chunk.js.map": "/my-photography-site/static/js/488.7d9932b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbaea78.css",
+    "static/js/main.58cf735e.js"
+  ]
+}
