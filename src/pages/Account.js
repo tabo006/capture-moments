@@ -4,8 +4,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../App.css";
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
+import { useNavigate } from "react-router-dom";
 
 const Account = () => {
+    const navigate = useNavigate();
+    const handleSignUp = () => {
+        // Perform any necessary actions before navigation
+        navigate("/contact");
+      };
     return (
         <div className="App">
           <NavBar />
@@ -61,7 +67,7 @@ const Account = () => {
                         </div>
                     </div>
                     <div class="col-12">
-                        <button type="submit" class="btn btn-primary">Sign Up</button>
+                        <button type="submit" onClick={handleSignUp} class="btn btn-primary">Sign Up</button>
                     </div>
                     </form>
                 </div>
