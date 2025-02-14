@@ -1,6 +1,4 @@
 import './App.css';
-import NavBar from './components/NavBar';
-import Footer from './components/Footer';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Account from './pages/Account';  
@@ -12,7 +10,7 @@ import Services from './pages/Services';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/capture-moments/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/booking" element={<Booking />} />
