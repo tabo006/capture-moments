@@ -10,7 +10,7 @@ const Account = () => {
     const navigate = useNavigate();
     const handleSignUp = () => {
         // Perform any necessary actions before navigation
-        navigate("/contact");
+        navigate("/account");
       };
     return (
         <div className="App">
@@ -67,7 +67,7 @@ const Account = () => {
                         </div>
                     </div>
                     <div class="col-12">
-                        <button type="submit" onClick={handleSignUp} class="btn btn-primary">Sign Up</button>
+                        <button type="button" onClick={handleSignUp} class="btn btn-primary">Sign Up</button>
                     </div>
                     </form>
                 </div>
