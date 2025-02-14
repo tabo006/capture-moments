@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/capture-moments/static/css/main.af44ea5b.css",
-    "main.js": "/capture-moments/static/js/main.c4e7bae3.js",
+    "main.js": "/capture-moments/static/js/main.2ee1b7c8.js",
     "static/js/488.7d9932b7.chunk.js": "/capture-moments/static/js/488.7d9932b7.chunk.js",
     "static/media/studio2.png": "/capture-moments/static/media/studio2.c7fa61ccddb1703a77ef.png",
     "static/media/studio1.png": "/capture-moments/static/media/studio1.619ae658cee7860df571.png",
@@ -12,11 +12,11 @@
     "static/media/logo.png": "/capture-moments/static/media/logo.bc0b432628b5c5f475f3.png",
     "index.html": "/capture-moments/index.html",
     "main.af44ea5b.css.map": "/capture-moments/static/css/main.af44ea5b.css.map",
-    "main.c4e7bae3.js.map": "/capture-moments/static/js/main.c4e7bae3.js.map",
+    "main.2ee1b7c8.js.map": "/capture-moments/static/js/main.2ee1b7c8.js.map",
     "488.7d9932b7.chunk.js.map": "/capture-moments/static/js/488.7d9932b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af44ea5b.css",
-    "static/js/main.c4e7bae3.js"
+    "static/js/main.2ee1b7c8.js"
   ]
 }
